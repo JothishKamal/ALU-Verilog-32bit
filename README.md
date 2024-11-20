@@ -137,7 +137,7 @@ The `ALU_32bit_tb` module tests the functionality of the ALU with various test c
 
 ### Sample Output
 
-```
+```verilog
 # Unsigned Add:         10 +         20 =         30 (Zero=0)
 # Unsigned Sub:         50 -         20 =         30 (Zero=0)
 # Unsigned Mul:          7 *          3 =         21 (Zero=0)
